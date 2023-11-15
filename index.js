@@ -1,3 +1,3 @@
 function alertUser(){
-  alert("Salam");
+  alert("You just tried to sign up, didn't you?");
 }

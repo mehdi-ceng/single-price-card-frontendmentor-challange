@@ -116,3 +116,19 @@ ul {
   padding-left: 0;
   line-height: 1.4;
 }
+
+@media (max-width: 500px){
+  .main_container{
+    width: auto;
+    height: auto;
+    overflow: visible;
+  }
+  
+  .price_section{
+    width: 100%;
+  }
+  
+  .why_section{
+    width: 100%;
+  }
+}
